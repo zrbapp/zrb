@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://github.com/zrbapp/zrb/raw/master/zrb0121.ipa</string>
+                </dict>
+            </array>
+
+
+		<key>CFBundleIconFiles</key>
+		<array>
+			<string>Icon-Small.png</string>
+                	<string>Icon-Small@2x.png</string>
+
+			<string>Icon.png</string>
+                	<string>Icon@2x.png</string>
+   			 <string>Icon-72.png</string>
+    			<string>Icon-72@2x.png</string>
+
+		</array>
+
+		<key>CFBundleDisplayName</key>
+        	<string>’“»À∞Ô</string>
+
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.zybush.test</string>
+                <key>bundle-version</key>
+                <string>1.0</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>zrb0121.ipa</string>
+            </dict>
+	   <key>CFBundleIcons</key>
+		<dict>
+   	        <key>CFBundlePrimaryIcon</key>
+                <dict>
+               <key>CFBundleIconFiles</key>
+        	<array>
+		<string>Icon-Small.png</string>
+                <string>Icon-Small@2x.png</string>
+
+		<string>Icon.png</string>
+                <string>Icon@2x.png</string>
+
+               <string>Icon-72.png</string>
+               <string>Icon-72@2x.png</string>
+          </array>
+           <key>UIPrerenderedIcon</key>
+        <true/>
+    </dict>
+
+        </dict>
+    </array>
+</dict>
+</plist>
+
+
+
+
+
+<key>CFBundleIcons</key>
+<dict>
+    <key>CFBundlePrimaryIcon</key>
+    <dict>
+        <key>CFBundleIconFiles</key>
+        <array>
+            <string>Icon-72.png</string>
+            <string>Icon-72@2x.png</string>
+        </array>
+        <key>UIPrerenderedIcon</key>
+        <true/>
+    </dict>
+</dict>
+
