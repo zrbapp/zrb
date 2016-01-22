@@ -18,13 +18,13 @@
 
 		<key>CFBundleIconFiles</key>
 		<array>
-			<string>https://github.com/zrbapp/zrb/raw/master/Icon-Small.png</string>
-                	<string>https://github.com/zrbapp/zrb/raw/master/Icon-Small@2x.png</string>
+			<string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon-Small.png</string>
+                	<string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon-Small@2x.png</string>
 
-			<string>https://github.com/zrbapp/zrb/raw/master/Icon.png</string>
-                	<string>https://github.com/zrbapp/zrb/raw/master/Icon@2x.png</string>
-   			 <string>https://github.com/zrbapp/zrb/raw/master/Icon-72.png</string>
-    			<string>https://github.com/zrbapp/zrb/raw/master/Icon-72@2x.png</string>
+			<string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon.png</string>
+                	<string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon@2x.png</string>
+   			 <string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon-72.png</string>
+    			<string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon-72@2x.png</string>
 
 		</array>
 
@@ -48,14 +48,13 @@
                 <dict>
                <key>CFBundleIconFiles</key>
         	<array>
-		<string>https://github.com/zrbapp/zrb/raw/master/Icon-Small.png</string>
-                <string>https://github.com/zrbapp/zrb/raw/master/Icon-Small@2x.png</string>
+			<string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon-Small.png</string>
+                	<string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon-Small@2x.png</string>
 
-		<string>https://github.com/zrbapp/zrb/raw/master/Icon.png</string>
-                <string>https://github.com/zrbapp/zrb/raw/master/Icon@2x.png</string>
-
-               <string>https://github.com/zrbapp/zrb/raw/master/Icon-72.png</string>
-               <string>https://github.com/zrbapp/zrb/raw/master/Icon-72@2x.png</string>
+			<string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon.png</string>
+                	<string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon@2x.png</string>
+   			 <string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon-72.png</string>
+    			<string>https://raw.githubusercontent.com/zrbapp/zrb/master/Icon-72@2x.png</string>
           </array>
            <key>UIPrerenderedIcon</key>
         <true/>
